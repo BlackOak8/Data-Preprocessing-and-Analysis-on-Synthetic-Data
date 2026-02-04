@@ -46,6 +46,6 @@ including date, character, factor and integer. Moreover, the data set is exporte
 4. Missing value replacement
 5. Summary statistic for numeric variables
 
-## Output.pdf
+## Output.htm
 - Demonstrates the whole process of creating the synthetic data sets, performing the data preprocessing and conducting the summary statistic for numeric variables
 - Displays the result of this project
